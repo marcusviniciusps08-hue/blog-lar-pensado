@@ -1,15 +1,15 @@
 # Casa em Pauta
 
-> Guias, comparativos e reviews de casa e decoração para escolher com calma, a partir dos dados públicos dos anúncios do Mercado Livre, com preço e data de leitura.
+> Guias, comparativos e reviews de casa e decoração para escolher com calma, a partir dos dados públicos dos anúncios (Mercado Livre e Shopee), com preço e data de leitura.
 
 Contém links de afiliado Mercado Livre.
 
 ## Comparativos
-- [5 cama e travesseiros até R$ 40: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-lar-pensado/top/cama-e-travesseiros-ate-40/)
-- [5 chuveiros elétricos até R$ 170: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-lar-pensado/top/chuveiros-eletricos-ate-170/)
-- [4 cozinha até R$ 60: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-lar-pensado/top/cozinha-ate-60/)
-- [5 iluminação até R$ 40: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-lar-pensado/top/iluminacao-ate-40/)
-- [5 organização da casa até R$ 60: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-lar-pensado/top/organizacao-da-casa-ate-60/)
+- [5 cama e travesseiros até R$ 40: comparativo com preços de 23/10](https://marcusviniciusps08-hue.github.io/blog-lar-pensado/top/cama-e-travesseiros-ate-40/)
+- [5 chuveiros elétricos até R$ 170: comparativo com preços de 23/10](https://marcusviniciusps08-hue.github.io/blog-lar-pensado/top/chuveiros-eletricos-ate-170/)
+- [4 cozinha até R$ 70: comparativo com preços de 23/10](https://marcusviniciusps08-hue.github.io/blog-lar-pensado/top/cozinha-ate-70/)
+- [5 iluminação até R$ 40: comparativo com preços de 23/10](https://marcusviniciusps08-hue.github.io/blog-lar-pensado/top/iluminacao-ate-40/)
+- [5 organização da casa até R$ 60: comparativo com preços de 23/10](https://marcusviniciusps08-hue.github.io/blog-lar-pensado/top/organizacao-da-casa-ate-60/)
 
 ## Guias
 - [Como escolher item de cama: o que olhar na ficha antes de gastar (de R$ 25 a R$ 115)](https://marcusviniciusps08-hue.github.io/blog-lar-pensado/guia/como-escolher-item-de-cama/)
@@ -35,7 +35,6 @@ Contém links de afiliado Mercado Livre.
 - [Ducha Eletrônica Lorenzetti Loren Shower Ultra 7500W 220V em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-lar-pensado/review/ducha-eletronica-lorenzetti-loren-shower-ultra-7500w-220v-9316b9/)
 - [Ducha Lorenzetti Top Jet Multitemperaturas 5500w: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-lar-pensado/review/ducha-lorenzetti-top-jet-multitemperaturas-5500w-6bf40d/)
 - [Lorenzetti Futura Ducha de Parede Multitemperaturas Design Moderno em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-lar-pensado/review/lorenzetti-futura-ducha-de-parede-multitemperaturas-design-moderno-7ffb54/)
-- [Cortador Fatiador Ralador De Legumes Frutas Vegetais Triturador: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-lar-pensado/review/cortador-fatiador-ralador-de-legumes-frutas-vegetais-triturador-a26780/)
 - [Cuba Gourmet Cozinha Aço Inox Escovado com Acessórios: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-lar-pensado/review/cuba-gourmet-cozinha-aco-inox-escovado-com-acessorios-ffc2d8/)
 - [Cuba Gourmet para Cozinha Aço Inox 201 50x40cm: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-lar-pensado/review/cuba-gourmet-para-cozinha-aco-inox-201-50x40cm-1cd29d/)
 - [Escorredor de Louças 2 Andares Zelvi Aço Carbono: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-lar-pensado/review/escorredor-de-loucas-2-andares-zelvi-aco-carbono-5aab62/)
@@ -59,6 +58,9 @@ Contém links de afiliado Mercado Livre.
 - [Cesto de Roupa Bambu Retangular de 72L com em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-lar-pensado/review/cesto-de-roupa-bambu-retangular-de-72l-com-5f5c01/)
 - [Cesto para Roupa de Bambu Dobrável Retangular Com: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-lar-pensado/review/cesto-para-roupa-de-bambu-dobravel-retangular-com-9ec21d/)
 - [Kit Cabide Madeira Mafim Antiderrapante para Roupa Adulto: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-lar-pensado/review/kit-cabide-madeira-mafim-antiderrapante-para-roupa-adulto-c3f9c6/)
+- [Abajur Recarregável Touch Luminária Retrátil em Aço com em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-lar-pensado/review/abajur-recarregavel-touch-luminaria-retratil-em-aco-com-1866fe/)
+- [Jogo C/ 4 ou 2 Travesseiro Pluma de: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-lar-pensado/review/jogo-c-4-ou-2-travesseiro-pluma-de-eb106a/)
+- [1/2/5 Suporte De Parede Multifuncional Caixa De Armazenamento em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-lar-pensado/review/1-2-5-suporte-de-parede-multifuncional-caixa-de-armazenamento-25b46b/)
 
 ## Sobre
 - [Sobre e afiliação](https://marcusviniciusps08-hue.github.io/blog-lar-pensado/sobre/)
