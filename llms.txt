@@ -5,15 +5,15 @@
 Contém links de afiliado Mercado Livre.
 
 ## Comparativos
-- [5 cama e travesseiros até R$ 40: comparativo com preços de 14/11](https://marcusviniciusps08-hue.github.io/blog-lar-pensado/top/cama-e-travesseiros-ate-40/)
-- [4 chuveiros elétricos até R$ 160: comparativo com preços de 14/11](https://marcusviniciusps08-hue.github.io/blog-lar-pensado/top/chuveiros-eletricos-ate-160/)
-- [3 cozinha até R$ 50: comparativo com preços de 14/11](https://marcusviniciusps08-hue.github.io/blog-lar-pensado/top/cozinha-ate-50/)
-- [5 iluminação até R$ 40: comparativo com preços de 14/11](https://marcusviniciusps08-hue.github.io/blog-lar-pensado/top/iluminacao-ate-40/)
-- [5 organização da casa até R$ 60: comparativo com preços de 14/11](https://marcusviniciusps08-hue.github.io/blog-lar-pensado/top/organizacao-da-casa-ate-60/)
+- [5 cama e travesseiros até R$ 40: comparativo com preços de 15/11](https://marcusviniciusps08-hue.github.io/blog-lar-pensado/top/cama-e-travesseiros-ate-40/)
+- [4 chuveiros elétricos até R$ 160: comparativo com preços de 15/11](https://marcusviniciusps08-hue.github.io/blog-lar-pensado/top/chuveiros-eletricos-ate-160/)
+- [3 cozinha até R$ 50: comparativo com preços de 15/11](https://marcusviniciusps08-hue.github.io/blog-lar-pensado/top/cozinha-ate-50/)
+- [5 iluminação até R$ 40: comparativo com preços de 15/11](https://marcusviniciusps08-hue.github.io/blog-lar-pensado/top/iluminacao-ate-40/)
+- [5 organização da casa até R$ 60: comparativo com preços de 15/11](https://marcusviniciusps08-hue.github.io/blog-lar-pensado/top/organizacao-da-casa-ate-60/)
 
 ## Guias
 - [Como escolher item de cama: o que olhar na ficha antes de gastar (de R$ 25,92 a R$ 124,54)](https://marcusviniciusps08-hue.github.io/blog-lar-pensado/guia/como-escolher-item-de-cama/)
-- [Como escolher chuveiro elétrico: o que olhar na ficha antes de gastar (de R$ 109 a R$ 591)](https://marcusviniciusps08-hue.github.io/blog-lar-pensado/guia/como-escolher-chuveiro-eletrico/)
+- [Como escolher chuveiro elétrico: o que olhar na ficha antes de gastar (de R$ 119,90 a R$ 591,31)](https://marcusviniciusps08-hue.github.io/blog-lar-pensado/guia/como-escolher-chuveiro-eletrico/)
 - [Como escolher item de cozinha: o que olhar na ficha antes de gastar (de R$ 19,99 a R$ 116,48)](https://marcusviniciusps08-hue.github.io/blog-lar-pensado/guia/como-escolher-item-de-cozinha/)
 - [Como escolher item de iluminação: o que olhar na ficha antes de gastar (de R$ 19,90 a R$ 42)](https://marcusviniciusps08-hue.github.io/blog-lar-pensado/guia/como-escolher-item-de-iluminacao/)
 - [Como escolher item de organização: o que olhar na ficha antes de gastar (de R$ 18,24 a R$ 99,99)](https://marcusviniciusps08-hue.github.io/blog-lar-pensado/guia/como-escolher-item-de-organizacao/)
