@@ -5,20 +5,21 @@
 Contém links de afiliado Mercado Livre.
 
 ## Comparativos
-- [4 cama e travesseiros até R$ 40: comparativo com preços de 18/11](https://marcusviniciusps08-hue.github.io/blog-lar-pensado/top/cama-e-travesseiros-ate-40/)
-- [3 chuveiros elétricos até R$ 150: comparativo com preços de 18/11](https://marcusviniciusps08-hue.github.io/blog-lar-pensado/top/chuveiros-eletricos-ate-150/)
-- [3 cozinha até R$ 60: comparativo com preços de 18/11](https://marcusviniciusps08-hue.github.io/blog-lar-pensado/top/cozinha-ate-60/)
-- [3 iluminação até R$ 40: comparativo com preços de 18/11](https://marcusviniciusps08-hue.github.io/blog-lar-pensado/top/iluminacao-ate-40/)
-- [5 organização da casa até R$ 60: comparativo com preços de 18/11](https://marcusviniciusps08-hue.github.io/blog-lar-pensado/top/organizacao-da-casa-ate-60/)
+- [4 cama e travesseiros até R$ 40: comparativo com preços de 20/11](https://marcusviniciusps08-hue.github.io/blog-lar-pensado/top/cama-e-travesseiros-ate-40/)
+- [3 chuveiros elétricos até R$ 150: comparativo com preços de 20/11](https://marcusviniciusps08-hue.github.io/blog-lar-pensado/top/chuveiros-eletricos-ate-150/)
+- [3 cozinha até R$ 50: comparativo com preços de 20/11](https://marcusviniciusps08-hue.github.io/blog-lar-pensado/top/cozinha-ate-50/)
+- [3 iluminação até R$ 40: comparativo com preços de 20/11](https://marcusviniciusps08-hue.github.io/blog-lar-pensado/top/iluminacao-ate-40/)
+- [5 organização da casa até R$ 60: comparativo com preços de 20/11](https://marcusviniciusps08-hue.github.io/blog-lar-pensado/top/organizacao-da-casa-ate-60/)
 
 ## Guias
-- [Como escolher item de cama: o que olhar na ficha antes de gastar (de R$ 25,92 a R$ 119,90)](https://marcusviniciusps08-hue.github.io/blog-lar-pensado/guia/como-escolher-item-de-cama/)
-- [Como escolher chuveiro elétrico: o que olhar na ficha antes de gastar (de R$ 119,90 a R$ 589)](https://marcusviniciusps08-hue.github.io/blog-lar-pensado/guia/como-escolher-chuveiro-eletrico/)
-- [Como escolher item de cozinha: o que olhar na ficha antes de gastar (de R$ 19,88 a R$ 116,48)](https://marcusviniciusps08-hue.github.io/blog-lar-pensado/guia/como-escolher-item-de-cozinha/)
+- [Como escolher item de cama: o que olhar na ficha antes de gastar (de R$ 25,92 a R$ 118,90)](https://marcusviniciusps08-hue.github.io/blog-lar-pensado/guia/como-escolher-item-de-cama/)
+- [Como escolher chuveiro elétrico: o que olhar na ficha antes de gastar (de R$ 119,90 a R$ 567)](https://marcusviniciusps08-hue.github.io/blog-lar-pensado/guia/como-escolher-chuveiro-eletrico/)
+- [Como escolher item de cozinha: o que olhar na ficha antes de gastar (de R$ 19,99 a R$ 133,95)](https://marcusviniciusps08-hue.github.io/blog-lar-pensado/guia/como-escolher-item-de-cozinha/)
 - [Como escolher item de iluminação: o que olhar na ficha antes de gastar (de R$ 27,99 a R$ 46,55)](https://marcusviniciusps08-hue.github.io/blog-lar-pensado/guia/como-escolher-item-de-iluminacao/)
 - [Como escolher item de organização: o que olhar na ficha antes de gastar (de R$ 18,24 a R$ 99,99)](https://marcusviniciusps08-hue.github.io/blog-lar-pensado/guia/como-escolher-item-de-organizacao/)
 
 ## Reviews
+- [Capa De Colchão Impermeável Hospitalar Antialérgico Solteiro: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-lar-pensado/review/capa-de-colchao-impermeavel-hospitalar-antialergico-solteiro-855884/)
 - [Capa Protetora para Colchão Casal com Zíper Malha em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-lar-pensado/review/capa-protetora-para-colchao-casal-com-ziper-malha-c1ccd4/)
 - [Capa de Colchão Solteiro com Zíper Malha Gel: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-lar-pensado/review/capa-de-colchao-solteiro-com-ziper-malha-gel-d4297e/)
 - [Colchão Casal inflavel Com Inflador Acoplado Camping Mor: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-lar-pensado/review/colchao-casal-inflavel-com-inflador-acoplado-camping-mor-81a16e/)
